@@ -6,4 +6,4 @@ There is no reason for anyone to clone this repo, cause in all honesty it will b
 I hope that, in time, I improve and this repo will help me land a devOps position. 
 
 Disclaimer:
-In case you didn't read above, this code was written by someone learning. You use this and break something, don't bother flaming me. Not responsible :)
+In case you didn't read above, this code was written by an entry level coder, who is still learning. You use this and break something, don't bother flaming me. Not responsible :)
